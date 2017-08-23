@@ -362,6 +362,6 @@ void freeData(void *info, const void *data, size_t size) {
     }
 </pre>
 
-![Triangle](iOS-OpenGL图形绘制二/Triangle.png)
-![Quadrangle](iOS-OpenGL图形绘制二/Quadrangle.png)
+![Triangle](image/Triangle.png)
+![Quadrangle](image/Quadrangle.png)
 
